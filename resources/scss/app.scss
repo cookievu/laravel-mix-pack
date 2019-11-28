@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@import "_variable.scss";
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+body {
+	color: 333;
+	background-color: white;
+	font-size: 13px;
+}
